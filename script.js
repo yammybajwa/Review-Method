@@ -18,6 +18,11 @@ const Review = [
         info:"English Singeradipisci cupiditate expedita consequuntur voluptatibus maxime modi quasi eos. Minima, voluptates atque unde quasi fuga ullam officiis nisi."
     }
 ];
+let item = 0 ;
+
+window.addEventListener("DOMContentLoaded",function(){
+   showPerson(item);
+});
 const Owner = document.getElementById("name");
 const img = document.getElementById("img");
 const info = document.getElementById("info");
