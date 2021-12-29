@@ -23,3 +23,11 @@ const img = document.getElementById("img");
 const info = document.getElementById("info");
 const back = document.getElementById("back");
 const next = document.getElementById("next");
+
+function showPerson(person){
+
+    const newItem = Review[person];
+    img.src=newItem.img
+   Owner.textContent= newItem.name;
+   info.textContent = newItem.info;
+};
