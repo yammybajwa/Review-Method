@@ -14,7 +14,7 @@ const Review = [
     {
         id: 3,
         name: "Baby Rexha",
-        img: "./Images/bebe-rexha-singer-women-blonde-hd-wallpaper-preview (2).jpg",
+        img: "https://images.unsplash.com/photo-1553860214-87b92d6c1e22?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGdpcmxzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         info: "English Singeradipisci cupiditate expedita consequuntur voluptatibus maxime modi quasi eos. Minima, voluptates atque unde quasi fuga ullam officiis nisi."
     }
 ];
